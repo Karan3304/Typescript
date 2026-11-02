@@ -8,7 +8,8 @@
     "ch3": "npm run build && node dist/Chapter_3_Setup_TS/index.js",
     "ch4": "npm run build && node dist/Chapter_4_TypeAnnotations_inference/index.js",
     "ch5": "npm run build && node dist/Chapter_5_Unions_and_Any/index.js",
-    "ch6": "npm run build && node dist/Chapter_6_Type_Narrowing_and_Type_Guards/index.js"
+    "ch6": "npm run build && node dist/Chapter_6_Type_Narrowing_and_Type_Guards/index.js",
+    "ch7": "npm run build && node dist/Chapter_7_TypeAssertion_TypeUnknown_TypeNever/index.js"
   },
   "repository": {
     "type": "git",
