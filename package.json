@@ -11,7 +11,8 @@
     "ch6": "npm run build && node dist/Chapter_6_Type_Narrowing_and_Type_Guards/index.js",
     "ch7": "npm run build && node dist/Chapter_7_TypeAssertion_TypeUnknown_TypeNever/index.js",
     "ch8": "npm run build && node dist/Chapter_8_Types_and_Interface/index.js",
-    "ch9": "npm run build && node dist/Chapter_9_Object_discussion/index.js"
+    "ch9": "npm run build && node dist/Chapter_9_Object_discussion/index.js",
+    "ch10": "npm run build && node dist/Chapter_10_Functions/index.js"
   },
   "repository": {
     "type": "git",
