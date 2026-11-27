@@ -13,7 +13,9 @@
     "ch8": "npm run build && node dist/Chapter_8_Types_and_Interface/index.js",
     "ch9": "npm run build && node dist/Chapter_9_Object_discussion/index.js",
     "ch10": "npm run build && node dist/Chapter_10_Functions/index.js",
-    "ch11": "npm run build && node dist/Chapter_11_Array_enums_tuples/index.js"
+    "ch11": "npm run build && node dist/Chapter_11_Array_enums_tuples/index.js",
+    "ch12": "npm run build && node dist/Chapter_12_OOPS/index.js",
+    "ch13": "npm run build && node dist/Chapter_13_Interface_and_Generics/index.js"
   },
   "repository": {
     "type": "git",
